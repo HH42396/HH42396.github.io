@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Patron saint
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: Patron saint
+location: Beijing, China
+email: haihan4233@163.com
 
 # ---------------- #
 #    Navigation    #
@@ -84,7 +84,7 @@ navs:
   -
     href: /open-source/
     label: 开源
-    mobile-hidden: true
+    mobile-hidden: false
 
   -
     href: /fragments/
