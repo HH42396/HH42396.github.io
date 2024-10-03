@@ -95,8 +95,10 @@ mindmap2: false
 3.进行对话
 
 ##### 三、成果展示
+<img width="1196" alt="3ce2c31bb6519ec874c0a2061d40d57" src="https://github.com/user-attachments/assets/736c1da8-7c9a-45f9-bec9-c600e4b16ddc">
 
-<https://pan.baidu.com/s/1BerdQo26vnLVfjC8s1yPXA?pwd=1111>
+
+
 
 ### 学习感悟
 
@@ -127,9 +129,6 @@ mindmap2: false
 我想用C语言做一个学生管理系统，应该如何开始编写代码？
 
 智能体配置及成果展示：
-
-<https://pan.baidu.com/s/1eKd5FY4Va-Y5FXbW3cmehw?pwd=2222>
-
-<https://pan.baidu.com/s/1XA_3n_CUiI11GoOAYAj_xg?pwd=3333>
-
+<img width="1236" alt="b0d79fd9ff16dacdbf1a53ab795d88f" src="https://github.com/user-attachments/assets/a85409ef-2219-42a6-8749-14dbd99d56be">
+<img width="623" alt="83a6d24f69240a13a3cc713d9023b5f" src="https://github.com/user-attachments/assets/158afb98-e4b5-4fbf-b161-5e25cd6bd8e3">
 Agent链接：<https://chatglm.cn/share/FNQuF>
