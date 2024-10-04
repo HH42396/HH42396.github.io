@@ -87,7 +87,7 @@ mindmap2: false
 
 ### 三、成果展示
 
-<https://pan.baidu.com/s/1BerdQo26vnLVfjC8s1yPXA?pwd=1111>![3ce2c31bb6519ec874c0a2061d40d57](C:\Users\haiha\Documents\WeChat Files\wxid_lg9ksa3qsxqz22\FileStorage\Temp\3ce2c31bb6519ec874c0a2061d40d57.png)
+<https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/chengguo.png?raw=true>
 
 ## 学习感悟
 
@@ -116,8 +116,8 @@ mindmap2: false
 
 智能体配置及成果展示：
 
-<https://pan.baidu.com/s/1eKd5FY4Va-Y5FXbW3cmehw?pwd=2222>![b0d79fd9ff16dacdbf1a53ab795d88f](C:\Users\haiha\Documents\WeChat Files\wxid_lg9ksa3qsxqz22\FileStorage\Temp\b0d79fd9ff16dacdbf1a53ab795d88f.png)
+<https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/iflab3.1.png?raw=true>
 
-<https://pan.baidu.com/s/1XA_3n_CUiI11GoOAYAj_xg?pwd=3333>![83a6d24f69240a13a3cc713d9023b5f](C:\Users\haiha\Documents\WeChat Files\wxid_lg9ksa3qsxqz22\FileStorage\Temp\83a6d24f69240a13a3cc713d9023b5f.png)
+<https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/iflab3.2.png?raw=true>
 
 Agent链接：<https://chatglm.cn/share/FNQuF>
