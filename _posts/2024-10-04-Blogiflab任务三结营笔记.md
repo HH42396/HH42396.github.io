@@ -87,7 +87,7 @@ mindmap2: false
 
 ### 三、成果展示
 
-<https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/chengguo.png?raw=true>
+https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/chengguo.png?raw=true
 
 ## 学习感悟
 
@@ -116,8 +116,8 @@ mindmap2: false
 
 智能体配置及成果展示：
 
-<https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/iflab3.1.png?raw=true>
+https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/iflab3.1.png?raw=true
 
-<https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/iflab3.2.png?raw=true>
+https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/iflab3.2.png?raw=true
 
 Agent链接：<https://chatglm.cn/share/FNQuF>
