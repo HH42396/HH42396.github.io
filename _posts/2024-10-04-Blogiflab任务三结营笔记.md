@@ -116,8 +116,8 @@ https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/chengguo.pn
 
 智能体配置及成果展示：
 
-https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/iflab3.1.png?raw=true
+<https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/iflab3.1.png?raw=true>
 
-https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/iflab3.2.png?raw=true
+<https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/iflab3.2.png?raw=true>
 
 Agent链接：<https://chatglm.cn/share/FNQuF>
