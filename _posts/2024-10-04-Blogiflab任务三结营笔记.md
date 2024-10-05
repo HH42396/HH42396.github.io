@@ -116,8 +116,8 @@ mindmap2: false
 
 智能体配置及成果展示：
 
-<https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/iflab3.1.png?raw=true>
+<img src="https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/iflab3.1.png?raw=true"  width="500" />
 
-<https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/iflab3.2.png?raw=true>
+<img src="https://github.com/HH42396/HH42396.github.io/blob/master/images/blog/iflab3.2.png?raw=true"  width="500" />
 
 Agent链接：<https://chatglm.cn/share/FNQuF>
